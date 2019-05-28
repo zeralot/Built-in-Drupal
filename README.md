@@ -38,7 +38,7 @@ Combine 2 methods above: Check CHANGELOG.txt first then if not check header of t
 ```
 $ python Check_Drupal.py \input\input_1.txt output_1.txt
 ```
-output file such as below: 
+Output file such as below: 
 ```
 bayandbeach.com|Drupal 7.66, 2019-04-17
 asted.symbiotic.coop|Drupal 7.66, 2019-04-17
